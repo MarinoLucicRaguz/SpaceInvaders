@@ -1,57 +1,45 @@
-Space Invaders
+# Space Invaders
 
-This is a C++ game using the SFML library, developed as part of an Object-Oriented Programming course.
-Table of Contents
+Space Invaders is a classic arcade game implemented in **C++** using the **SFML** library. This project was developed as part of an Object-Oriented Programming course and showcases core principles of object-oriented design.
 
-    Introduction
-    Features
-    Installation
-    Usage
-    Contributing
-    License
+---
 
-Introduction
+## Table of Contents
 
-Space Invaders is a classic arcade game where players control a spaceship to defend against waves of alien invaders. This project is implemented in C++ using the SFML library.
-Features
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Installation](#installation)
 
-    Classic Space Invaders gameplay
-    Multiple levels with increasing difficulty
-    High score tracking
-    Simple, intuitive controls
+---
 
-Installation
+## Introduction
 
-    Clone the repository:
+Space Invaders is a retro arcade game where the player controls a spaceship to fend off waves of alien invaders. This implementation stays true to the classic gameplay while leveraging the capabilities of modern C++ and the SFML library.
 
-    sh
+---
 
-git clone https://github.com/MarinoLucicRaguz/SpaceInvaders.git
+## Features
 
-Navigate to the project directory:
+- **Classic Gameplay**: Faithful recreation of the original Space Invaders experience.
+- **Progressive Difficulty**: Multiple levels with increasing challenges as you advance.
+- **High Score Tracking**: Save and display your best scores.
+- **Smooth Controls**: Easy-to-learn controls for an enjoyable experience.
 
-sh
+---
 
-    cd SpaceInvaders
+## Installation
 
-    Build the project:
-        Open the solution file spaceinvaders.sln in your preferred IDE (e.g., Visual Studio).
-        Build the solution to compile the game.
+To set up and play the game, follow these steps:
 
-Usage
+### Prerequisites
 
-    Run the game:
-        After building the project, run the executable generated in the x64/Debug directory.
+Ensure you have the following installed:
+- [SFML Library](https://www.sfml-dev.org/)
+- A compatible C++ compiler (e.g., Visual Studio, GCC, or Clang)
+- Git for cloning the repository
 
-    Controls:
-        Move: Arrow keys
-        Shoot: Space bar
+### Steps
 
-Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Feel free to customize further based on any additional details or preferences.
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/MarinoLucicRaguz/SpaceInvaders.git
